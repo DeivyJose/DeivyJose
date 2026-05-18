@@ -91,6 +91,16 @@ life_philosophy:
 
 <div align="center">
 
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/DeivyJose/DeivyJose/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
 # 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=DeivyJose&theme=transparent&border=00f5ff&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff"/>
