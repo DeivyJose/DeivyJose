@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,50:0b1f3a,100:00f5ff&text=D̸͓̝̻̰̱̳̙͕̻̍͜͠ͅȩ̴̛̙̳̰̪̻͎̘͚̦̖͔̄́͑͊̊̋͗̂̎ĭ̴̛̫̫̣̺̰̠̜̜͉̟͗̓̈́̓͒̅̂͝v̵͚͔̙̖̙̥͓̲̎̾͂̐̓̊̐͜ÿ̸̱͖͔̫͍̭̘̫͚̞̫̰́̓͊̀̾̑̈́͘ ̷̢̧̨̢̝̠̤͙̲̭̘̍͑̋̌͂̉̏̚͘̚͝ͅ%20J̶̲̣̗̈̐̑̂̄̃̕ǫ̴̡̣͍̭͙̖͚̣̭̠͚̥̻̜̣̅̄͌̄̉̾͒̂́ͅs̸͈̭͕͎͉͕͍̫̘̦͈̼͈̗͗̌̿͘͜͜ȩ̶̭̹̞̬̹̻͈̑͑̌̓̔̿̎͒̐̓̒́͘̚͠&fontSize=60&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20focused%20on%20scalable%20systems,%20AI%20and%20modern%20technologies.&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,50:0b1f3a,100:00f5ff&text=D̷͙̕e̶̝̐i̴͎̓v̴̯̓y̵̒&fontSize=60&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20focused%20on%20scalable%20systems,%20AI%20and%20modern%20technologies.&descAlignY=58&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Backend+Developer;AI+Enthusiast;Ubuntu+Linux+User;Fullstack+Learner;Building+Scalable+Systems;Cyberpunk+Developer;Always+Learning+New+Technologies" />
