@@ -14,9 +14,7 @@
 
 ---
 
-# ```bash
-deivy@ubuntu:~$ whoami
-
+```yaml
 name: Deivy Jose
 located_in: Dominican Republic
 
@@ -41,3 +39,63 @@ operating_system: Ubuntu 24.04 LTS
 
 life_philosophy:
   "Build. Learn. Improve. Repeat."
+```
+
+---
+
+<div align="center">
+
+# ⚡ Tech Arsenal
+
+</div>
+
+## 💻 Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,cs" />
+</p>
+
+## 🌐 Frontend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+## 🧠 Backend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
+
+## 🗄️ Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+</p>
+
+## ⚙️ Tools & Environment
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,vscode,postman,bash" />
+</p>
+
+---
+
+<div align="center">
+
+# 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeivyJose&show_icons=true&theme=transparent&title_color=00f5ff&text_color=ffffff&icon_color=00f5ff&border_color=00f5ff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeivyJose&layout=compact&theme=transparent&title_color=00f5ff&text_color=ffffff&border_color=00f5ff"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=DeivyJose&theme=transparent&border=00f5ff&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff"/>
+
+</div>
+
+---
+
