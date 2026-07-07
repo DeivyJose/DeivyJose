@@ -31,7 +31,8 @@ current_focus:
 
 currently_learning:
   [
-    "Cybersecurity",
+    "Software develop"
+    "basic - Cybersecurity",
     "Distributed Systems",
     "Advanced Backend Architectures",
     "Automation"
