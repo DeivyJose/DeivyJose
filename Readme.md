@@ -78,25 +78,9 @@ life_philosophy:
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,vscode,postman,bash" />
 </p>
 
----
 
 <div align="center">
 
-# 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeivyJose&show_icons=true&theme=transparent&title_color=00f5ff&text_color=ffffff&icon_color=00f5ff&border_color=00f5ff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeivyJose&layout=compact&theme=transparent&title_color=00f5ff&text_color=ffffff&border_color=00f5ff"/>
-
-</div>
-
----
-
-<div align="center">
-
----
-
-<div align="center">
 
 # 🐍 Contribution Snake
 
